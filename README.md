@@ -9,7 +9,7 @@ Welcome to my corner of GitHub! I help organizations manage **cloud at scale** w
 🔐 **Cloud Governance Manager** in a multinational enterprise  
 🌐 15+ years in tech (automotive → cloud strategy)  
 🔍 Currently driving a **Cloud Governance Framework** for 500+ AWS, Azure, and GCP accounts  
-🛡️ Special focus on **FinOps, IAM, Data Classification, Compliance Automation,** and **Cloud Custodian**  
+🛡️ Special focus on **FinOps, IAM, Data Classification, Compliance Automation,** and **Cloud Governance**  
 🧠 Contributor to a book on multi-agent systems and co-author of two **patents in autonomous vehicles**  
 📜 Certified in CCSK, AWS Cloud Practitioner
 🎯 GCP Security Engineer Certification (in progress)
@@ -20,7 +20,7 @@ Welcome to my corner of GitHub! I help organizations manage **cloud at scale** w
 
 - ☁️ **Cloud**: AWS, GCP
 - 🧾 **Security**: IAM, Security Hub, SCPs, DLP, VPCs
-- 📊 **Governance & FinOps**: Cloud Custodian, Cost Explorer, PowerBI
+- 📊 **Governance & FinOps**: SecurityHub CSPM, Cost Explorer, PowerBI
 - ⚙️ **Dev Tools**: Docker, Python, Bash
 - 📚 **Frameworks**: CIS Benchmarks, NIST, ISO 27001, SOC 2, Cloud Controls Matrix | CSA
 
@@ -30,7 +30,7 @@ Welcome to my corner of GitHub! I help organizations manage **cloud at scale** w
 
 Here are a few things I’m building, automating, or experimenting with:
 
-- `cloud-custodian-automation`: 📜 Automating governance
+- `cloud-governance-reporting`: 📜 Automating governance
 
 ---
 
